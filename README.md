@@ -11,7 +11,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Setting Up a Home Lab                         | <a href="https://google.com">Home Lab</a>|
+| Penetration tesing, network analysis, virtualisation, troubleshooting                      | <a href="https://github.com/ibbya04/Home-Lab">Home Lab</a>|
+| Hardening, firewall management                              | <a href="https://github.com/ibbya04/Linux-Hardening">Linux Hardening</a>|
 
 ## Tools
 
