@@ -18,7 +18,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
   <a href="https://www.credly.com/badges/0c190247-8fc6-4d18-8738-f540aa2c16ce" target="_blank">
   <img src="https://img.shields.io/badge/-Cisco%20Intro%20to%20Cybersecurity-1BA0D8?&style=for-the-badge&logo=Cisco&logoColor=white" alt="Cisco Intro to Cybersecurity" />
