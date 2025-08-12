@@ -1,5 +1,5 @@
 # Hello, I'm Ibraheem Ali
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[https://linkedin.com](https://www.linkedin.com/in/ibraheem-ali-0347a2245/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a undergraduate student studying computer science  with a profound interest in cyber security and a dedication to solving complex problems. I will use my GitHub profile to display my personal projects.
 
